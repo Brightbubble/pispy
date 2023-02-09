@@ -10,3 +10,11 @@ This Raspberry Pi-based surveillance camera is designed to provide real-time mon
 - Live Streaming: Streams live video footage to a secure app, providing real-time monitoring.
 - AWS Hosting: Hosted on AWS to ensure scalability and reliability. 
 - Secure App: Live video footage can only be accessed through a secure app, ensuring the privacy of your surveillance footage.
+
+## To-Do
+
+- Make the camera stream to AWS
+- Add object recognition library to camera
+- Make front-end in React
+- Add Docker to make it easy to Deploy
+- Add CI/CD
